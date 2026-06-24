@@ -1,0 +1,155 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="ProgId" content="Word.Document">
+<title>VisionPure — Guiones Animación Cartoon IA</title>
+<style>
+ body{font-family:Calibri,Arial,sans-serif;font-size:11pt;color:#1a1a1a;line-height:1.4;}
+ h1{font-size:19pt;color:#0b3d91;border-bottom:3px solid #0b3d91;padding-bottom:4px;}
+ h2{font-size:15pt;color:#0b3d91;margin-top:22px;border-bottom:1px solid #bbb;padding-bottom:2px;}
+ h3{font-size:12.5pt;margin-top:14px;color:#222;}
+ table{border-collapse:collapse;width:100%;margin:8px 0;font-size:10pt;}
+ th,td{border:1px solid #999;padding:5px 7px;vertical-align:top;text-align:left;}
+ th{background:#0b3d91;color:#fff;}
+ tr:nth-child(even){background:#eef2fb;}
+ .meta td:first-child{background:#dfe7f7;font-weight:bold;width:22%;}
+ .hook{background:#fff8d6;border-left:4px solid #e0a800;padding:6px 10px;margin:4px 0;}
+ .razon{background:#eef6ff;border-left:4px solid #2a6fb0;padding:5px 10px;margin:3px 0;font-size:10pt;}
+ .gate{background:#eafaef;border-left:4px solid #0a7d28;padding:6px 10px;margin:4px 0;font-size:10pt;}
+ .guion{background:#fbf6ee;border-left:4px solid #b06a00;padding:8px 12px;margin:6px 0;font-size:10.5pt;}
+ .note{background:#f3f3f3;border-left:4px solid #888;padding:6px 10px;font-size:10pt;}
+ .tag{display:inline-block;background:#0b3d91;color:#fff;padding:1px 8px;border-radius:3px;font-size:9pt;}
+ .concepto{border-top:3px solid #0b3d91;margin-top:30px;padding-top:6px;}
+</style>
+</head>
+<body>
+
+<h1>VisionPure — Guiones Animación Cartoon IA</h1>
+<p><b>Cruce:</b> formato <i>DOCUMENTO_MAESTRO_ANIMACION_CARTOON_IA</i> × ADN de guion VisionPure (Ad "3" / Breakthrough).<br>
+<b>Reglas del formato aplicadas:</b> vertical 9:16 · <b>primera persona obligatoria</b> · <b>7-8 s por escena (LEY)</b> · variedad emocional (ninguna escena repite la emoción anterior) · cámara/textura/VFX narrativos · copy 25-40 palabras (setup + remate) · <b>el producto aparece TARDE</b>.</p>
+
+<div class="gate">
+<b>CONSTANTES DE MENSAJE VISIONPURE (no se tocan — solo cambia el envoltorio cartoon)</b>
+<ul>
+<li><b>Enemigo:</b> <i>hambruna macular</i> — la <b>mácula</b> (capa de la visión nítida) se apaga por años de <b>luz azul + UV</b>.</li>
+<li><b>Falsa solución:</b> las <b>cápsulas de luteína se disuelven en la digestión</b> antes de llegar al ojo; los <b>lentes</b> solo son un parche.</li>
+<li><b>Héroe:</b> <b>luteína</b> (respaldo del Instituto Nacional del Ojo).</li>
+<li><b>Mecanismo único:</b> spray <b>VisionPure</b> con <b>Blink Fusion</b> → entra por el <b>párpado</b> directo a la mácula. <i>2 sprays con ojos cerrados + parpadea 5 veces.</i></li>
+<li><b>Síntomas:</b> visión borrosa año tras año · halos/deslumbre al manejar de noche · graduación que sube · alejar el teléfono para leer.</li>
+<li><b>Reductor de riesgo / CTA:</b> garantía de devolución · link abajo · alegrestiendamexico.com.</li>
+</ul>
+</div>
+
+<div class="note"><b>Prompt base (pegar en Sora/Kling/Luma, completar los [corchetes]):</b><br>
+<i>3D Pixar-style animation, hyper-realistic macro photography. Anthropomorphic [OBJETO] with a highly expressive face. [TEXTURA ESPECÍFICA]. Cinematic [TIPO DE LUZ] lighting. [VFX]. Vertical format 9:16.</i></div>
+
+<div class="note"><b>Compliance:</b> "ayuda a / apoya / nutre"; "resultados varían"; <i>hambruna macular</i> es metáfora educativa, no diagnóstico. Sin promesas absolutas de curar ceguera.</div>
+
+<!-- ============ GUION 1 ============ -->
+<div class="concepto">
+<h2>GUION 1 — "Soy tu ojo" <span class="tag">Órgano que habla · Personaje único mutante</span></h2>
+<p>🎬 <b>Formato:</b> venta · ~62 s · 8 escenas. <b>Motor:</b> empatía + tabú + miedo a la ceguera (Opción C del doc: órgano del cuerpo como personaje único con arco emocional descendente → resolución).</p>
+<div class="hook"><b>Idea:</b> tu propio ojo te habla en primera persona y se va deteriorando escena a escena (hambruna macular) hasta que VisionPure lo rescata.</div>
+<div class="razon"><b>Razón:</b> que el propio cuerpo del espectador le pida ayuda elimina la barrera del anuncio y dispara identificación; el arco emocional continuo (confianza→amenaza→agotamiento→esperanza→alivio) derrota la fatiga del formato.</div>
+
+<h3>Script Flow (escena por escena · 7-8 s c/u)</h3>
+<table>
+<tr><th>#</th><th>Personaje · Emoción</th><th>Cámara</th><th>Textura / Look</th><th>Copy (1.ª persona)</th><th>VFX</th></tr>
+<tr><td>1</td><td>El Ojo · amigable, confiado</td><td>Primer plano macro, a nivel de ojos</td><td>Iris húmedo, brillante, sano</td><td>"Hola. Soy tu ojo derecho. Llevamos toda la vida juntos. Pero hay algo que nunca te conté… y ya no puedo callarlo."</td><td>Reflejo especular, gota de brillo</td></tr>
+<tr><td>2</td><td>El Ojo · preocupado</td><td>Macro, leve picado</td><td>Iris empezando a opacarse</td><td>"¿Ves todo más borroso, año tras año? No es la edad. En mi fondo hay una capa, la mácula, y se está quedando con hambre."</td><td>Niebla translúcida sobre el iris</td></tr>
+<tr><td>3</td><td>La Luz Azul (villano) · sonrisa siniestra</td><td>Contrapicado (poder)</td><td>Cristal azul frío, aristas filosas</td><td>"Yo soy la luz azul de tus pantallas. Todo el día te acompaño… y todo el día le quemo la mácula a tu ojo. Gracias por no soltar el teléfono."</td><td>LED azul, partículas frías cayendo</td></tr>
+<tr><td>4</td><td>El Ojo · agotado, halos</td><td>Macro, picado fuerte</td><td>Iris apagado, venitas rojas, lagrimeo</td><td>"Por eso de noche los faros te ciegan como soles. Por eso alejas el teléfono para leer. Esos halos soy yo, pidiendo auxilio."</td><td>POV de faros con glare, destellos turbios</td></tr>
+<tr><td>5</td><td>La Cápsula de luteína (falso héroe) · pomposa→patética</td><td>Plano entero, cae a un estómago oscuro</td><td>Gel brillante que se deshace en baba</td><td>"¿Una pastilla de luteína? Llego al estómago… y me disuelvo aquí abajo. Nunca subo hasta tu ojo. Lo siento."</td><td>Cápsula derritiéndose en ácido</td></tr>
+<tr><td>6</td><td>Luteína + Blink Fusion (héroe) · serena, poderosa</td><td>Contrapicado, luz dorada</td><td>Gota dorada luminosa, aura cálida</td><td>"Yo soy luteína, el alimento de tu mácula. Con la tecnología Blink Fusion entro por tu párpado — directo a donde más me necesitas."</td><td>Aura dorada, gota atravesando un párpado cerrado</td></tr>
+<tr><td>7</td><td>El Ojo · alivio, renacer</td><td>Macro, golden hour</td><td>Iris recuperando nitidez y brillo</td><td>"Dos sprays, ojos cerrados, parpadeo cinco veces… y vuelvo a la vida. En semanas leo sin lentes y reconozco caras de lejos otra vez."</td><td>Niebla disolviéndose, destello de nitidez</td></tr>
+<tr><td>8</td><td>VisionPure (producto) · cierre calmado→firme</td><td>Plano producto centrado, luz cálida</td><td>Frasco premium, etiqueta nítida</td><td>"Juntos somos VisionPure. No esperes a quedarte a oscuras: la hambruna macular no espera. Está en el link, con garantía."</td><td>Brillo suave del frasco, ojo nítido al fondo</td></tr>
+</table>
+
+<div class="guion"><b>📜 Guion corrido (voz por personaje, lectura continua):</b><br>
+<b>[Ojo]</b> "Hola. Soy tu ojo derecho. Llevamos toda la vida juntos, pero hay algo que nunca te conté y ya no puedo callarlo. ¿Ves todo más borroso, año tras año? No es la edad: en mi fondo hay una capa, la mácula, y se está quedando con hambre." <b>[Luz Azul]</b> "Yo soy la luz azul de tus pantallas; todo el día te acompaño y todo el día le quemo la mácula a tu ojo. Gracias por no soltar el teléfono." <b>[Ojo]</b> "Por eso de noche los faros te ciegan como soles, por eso alejas el teléfono para leer: esos halos soy yo, pidiendo auxilio." <b>[Cápsula]</b> "¿Una pastilla de luteína? Llego al estómago y me disuelvo aquí abajo; nunca subo hasta tu ojo." <b>[Luteína / Blink Fusion]</b> "Yo soy luteína, el alimento de tu mácula; con la tecnología Blink Fusion entro por tu párpado, directo a donde más me necesitas." <b>[Ojo]</b> "Dos sprays, ojos cerrados, parpadeo cinco veces… y vuelvo a la vida: en semanas leo sin lentes y reconozco caras de lejos otra vez." <b>[VisionPure]</b> "Juntos somos VisionPure. No esperes a quedarte a oscuras: la hambruna macular no espera. Está en el link, con garantía."</div>
+<div class="note">El producto aparece recién en la escena 8 (tarde, como manda el formato). Emociones sin repetir: confianza→preocupación→amenaza→agotamiento→decepción→esperanza→alivio→calma.</div>
+</div>
+
+<!-- ============ GUION 2 ============ -->
+<div class="concepto">
+<h2>GUION 2 — "Los que apagan tu vista" <span class="tag">Villano → Héroes → Producto</span></h2>
+<p>🎬 <b>Formato:</b> venta · ~50 s · 7 escenas. <b>Motor:</b> miedo al villano + esperanza en los héroes (Opción A del doc: la estructura de venta más directa).</p>
+<div class="hook"><b>Idea:</b> los villanos confiesan el daño; el falso héroe fracasa; los héroes con nombre explican qué pasa SIN ellos; todos se unen en VisionPure.</div>
+<div class="razon"><b>Razón:</b> transformar síntomas en "carencias con nombre" (la ausencia del héroe = el dolor) y dejar el producto para el 90% del video desactiva la defensa de "esto es un anuncio".</div>
+
+<h3>Script Flow (escena por escena · 7-8 s c/u)</h3>
+<table>
+<tr><th>#</th><th>Personaje · Emoción</th><th>Cámara</th><th>Textura / Look</th><th>Copy (1.ª persona)</th><th>VFX</th></tr>
+<tr><td>1</td><td>La Pantalla (villano 1) · burlona</td><td>Contrapicado</td><td>Vidrio negro brillante, luz azul</td><td>"Soy la pantalla a la que le das 8 horas diarias. Cada hora le robo nitidez a tu mácula. Y tú… me desbloqueas otra vez."</td><td>Resplandor azul pulsante</td></tr>
+<tr><td>2</td><td>El Rayo UV (villano 2) · agresivo</td><td>Dutch angle (inestable)</td><td>Haz amarillo ardiente</td><td>"Yo soy el UV del sol. Entro aunque uses lentes oscuros y frío esa capa que te da la imagen nítida. Sin que lo notes."</td><td>Chispas, calor ondulante</td></tr>
+<tr><td>3</td><td>La Mácula (víctima) · suplicante</td><td>Primer plano macro, picado</td><td>Tejido reseco, agrietado, apagándose</td><td>"Yo soy tu mácula. Ellos me están dejando con hambre. Por eso ves borroso, por eso los halos. Necesito mi alimento o me apago."</td><td>Grietas avanzando, color que se desvanece</td></tr>
+<tr><td>4</td><td>La Cápsula (falso héroe) · ridícula</td><td>Plano entero, cae</td><td>Gel que se derrite en baba</td><td>"¿Yo, la pastilla de luteína? Me deshago en tu estómago. Jamás llego al ojo. Puro cuento."</td><td>Disolución viscosa</td></tr>
+<tr><td>5</td><td>La Luteína (héroe) · noble</td><td>Contrapicado, dorado</td><td>Gota dorada radiante</td><td>"Yo soy luteína, estudiada por el Instituto del Ojo. Sin mí, tu mácula se queda a oscuras. El problema nunca fui yo — fue cómo llegar."</td><td>Aura dorada</td></tr>
+<tr><td>6</td><td>Blink Fusion (héroe) · ágil, decidido</td><td>Macro de párpado</td><td>Microgotas brillando</td><td>"Y yo soy Blink Fusion: llevo a la luteína por tu párpado, directo a la mácula. Donde la pastilla nunca pudo."</td><td>Gota atravesando el párpado cerrado</td></tr>
+<tr><td>7</td><td>VisionPure (producto) · triunfal calmado</td><td>Plano producto</td><td>Frasco nítido, luz cálida</td><td>"Juntos somos VisionPure. El spray que sí alimenta tu vista. Pruébalo sin riesgo — está en el link."</td><td>Convergencia de héroes en el frasco</td></tr>
+</table>
+
+<div class="guion"><b>📜 Guion corrido:</b><br>
+<b>[Pantalla]</b> "Soy la pantalla a la que le das ocho horas diarias; cada hora le robo nitidez a tu mácula, y tú me desbloqueas otra vez." <b>[Rayo UV]</b> "Yo soy el UV del sol: entro aunque uses lentes oscuros y frío esa capa que te da la imagen nítida, sin que lo notes." <b>[Mácula]</b> "Yo soy tu mácula. Ellos me están dejando con hambre; por eso ves borroso, por eso los halos. Necesito mi alimento o me apago." <b>[Cápsula]</b> "¿Yo, la pastilla de luteína? Me deshago en tu estómago; jamás llego al ojo. Puro cuento." <b>[Luteína]</b> "Yo soy luteína, estudiada por el Instituto del Ojo; sin mí, tu mácula se queda a oscuras. El problema nunca fui yo, fue cómo llegar." <b>[Blink Fusion]</b> "Y yo soy Blink Fusion: llevo a la luteína por tu párpado, directo a la mácula, donde la pastilla nunca pudo." <b>[VisionPure]</b> "Juntos somos VisionPure, el spray que sí alimenta tu vista. Pruébalo sin riesgo: está en el link."</div>
+<div class="note">Villanos en escenas 1-2 (luz oscura/fría), héroes en 5-6 (luz cálida/dorada), producto al 90%. Status gap visual: cápsula patética que se derrite vs héroes con aura dorada.</div>
+</div>
+
+<!-- ============ GUION 3 ============ -->
+<div class="concepto">
+<h2>GUION 3 — "¡PARA!" Desfile de síntomas <span class="tag">Pattern interrupt sistematizado</span></h2>
+<p>🎬 <b>Formato:</b> venta/educativo · ~60 s · 7 escenas + CTA. <b>Motor:</b> 7 micro-hooks encadenados — sirve si el usuario cae en cualquier segundo (Opción D del doc).</p>
+<div class="hook"><b>Idea:</b> cada síntoma de la hambruna macular es un personaje que te interrumpe con el gancho idéntico "¡PARA!" y se niega a ser "normal".</div>
+<div class="razon"><b>Razón:</b> repetir el gancho "¡PARA!" al inicio de cada escena convierte el video en 7 oportunidades de retención independientes; el interruptor de patrón antes del CTA hace que el cerebro lo procese en modo receptivo.</div>
+
+<h3>Script Flow (escena por escena · 7-8 s c/u)</h3>
+<table>
+<tr><th>#</th><th>Personaje · Emoción</th><th>Cámara</th><th>Textura</th><th>Copy (empieza SIEMPRE con "¡PARA!")</th><th>VFX</th></tr>
+<tr><td>1</td><td>La Visión Borrosa · alarma</td><td>Macro, niebla</td><td>Lente empañado</td><td>"¡PARA! No soy 'la edad'. Soy tu visión borrosa que crece cada año. Soy la mácula quedándose con hambre. No me ignores."</td><td>Desenfoque viviente</td></tr>
+<tr><td>2</td><td>El Halo Nocturno · deslumbrante</td><td>POV volante, Dutch</td><td>Faros estallando en estrellas</td><td>"¡PARA! Esos soles que te ciegan al manejar de noche… soy yo. No es sensibilidad. Es tu vía a la ceguera, encendiéndose."</td><td>Glare, destellos</td></tr>
+<tr><td>3</td><td>La Graduación que Sube · burlona</td><td>Contrapicado</td><td>Lentes apilados, cada vez más gruesos</td><td>"¡PARA! Cada año tu óptica me hace más fuerte. Yo solo tapo el problema mientras tu mácula sigue muriendo. Gracias por pagar."</td><td>Lentes apilándose</td></tr>
+<tr><td>4</td><td>El Brazo del Teléfono · cómico-triste</td><td>Plano entero</td><td>Brazo estirándose absurdo</td><td>"¡PARA! ¿Alejas el teléfono para leer? No es tu pantalla. Soy tu mácula pidiendo auxilio… y tu brazo ya no da más."</td><td>Brazo elástico</td></tr>
+<tr><td>5</td><td>La Mácula · súplica</td><td>Primer plano, picado</td><td>Tejido agrietado, apagado</td><td>"¡PARA! de normalizarlos. Todos somos la misma cosa: hambruna macular. Y solo hay un alimento que de verdad me llega."</td><td>Grietas, luz tenue</td></tr>
+<tr><td>6</td><td>Blink Fusion / Luteína · esperanza</td><td>Contrapicado dorado</td><td>Gota dorada</td><td>"¡Espera! Yo soy la luteína en spray. Entro por tu párpado con Blink Fusion, donde las pastillas nunca llegaron. Dos sprays y a dormir."</td><td>Aura dorada, párpado</td></tr>
+<tr><td>7 (CTA)</td><td>VisionPure · calma receptiva</td><td>Plano producto, luz suave</td><td>Frasco nítido</td><td><i>(tono relajado)</i> "Se llama VisionPure. Aliméntala antes de que se apague. Link abajo, con garantía de 30 días."</td><td>Brillo suave</td></tr>
+</table>
+
+<div class="guion"><b>📜 Guion corrido:</b><br>
+<b>[Visión Borrosa]</b> "¡PARA! No soy 'la edad'. Soy tu visión borrosa que crece cada año, soy la mácula quedándose con hambre. No me ignores." <b>[Halo Nocturno]</b> "¡PARA! Esos soles que te ciegan al manejar de noche soy yo; no es sensibilidad, es tu vía a la ceguera encendiéndose." <b>[Graduación]</b> "¡PARA! Cada año tu óptica me hace más fuerte; yo solo tapo el problema mientras tu mácula sigue muriendo. Gracias por pagar." <b>[Brazo del Teléfono]</b> "¡PARA! ¿Alejas el teléfono para leer? No es tu pantalla: soy tu mácula pidiendo auxilio, y tu brazo ya no da más." <b>[Mácula]</b> "¡PARA de normalizarlos! Todos somos la misma cosa: hambruna macular. Y solo hay un alimento que de verdad me llega." <b>[Luteína / Blink Fusion]</b> "¡Espera! Yo soy la luteína en spray; entro por tu párpado con Blink Fusion, donde las pastillas nunca llegaron. Dos sprays y a dormir." <b>[VisionPure — tono calmado]</b> "Se llama VisionPure. Aliméntala antes de que se apague. Link abajo, con garantía de 30 días."</div>
+<div class="note">Interruptor de patrón para CTA: la escena 7 baja la energía para que el cerebro procese la instrucción. Gancho "¡PARA!" idéntico = 7 oportunidades de enganchar.</div>
+</div>
+
+<!-- ============ GUION 4 ============ -->
+<div class="concepto">
+<h2>GUION 4 (bonus) — "Duelo: Spray vs Pastilla" <span class="tag">Alfa vs Patético · corto TikTok</span></h2>
+<p>🎬 <b>Formato:</b> corto · ~32 s · 4 escenas. <b>Motor:</b> polarización + superioridad vicaria (Desfile de Duelos). Ideal para completion rate alto en TikTok.</p>
+<div class="hook"><b>Idea:</b> el Spray VisionPure (Alfa dominante) humilla y expulsa a la Cápsula de luteína (Patético que se derrite en el estómago).</div>
+<div class="razon"><b>Razón:</b> la degradación material del "malo" (la cápsula derritiéndose) ES el argumento visual: no hay que creer el copy, se VE por qué la pastilla no sirve y el spray sí.</div>
+
+<h3>Script Flow (escena por escena · 7-8 s c/u)</h3>
+<table>
+<tr><th>#</th><th>Escena · Emoción</th><th>Cámara</th><th>Copy (1.ª persona)</th><th>VFX</th></tr>
+<tr><td>1</td><td>Cápsula (Patético) vs Spray VisionPure (Alfa) se presentan</td><td>Contrapicado al Alfa, picado al Patético</td><td><b>Alfa:</b> "Yo entro por el párpado, directo a la mácula." <b>Patético:</b> "Yo… me disuel—" <b>Alfa:</b> "¡Cállate! Te derrites en el estómago."</td><td>Cápsula empezando a gotear</td></tr>
+<tr><td>2</td><td>La Pastilla se degrada</td><td>Macro picado</td><td>"Llego al ácido y… adiós. Nunca toco tu ojo. Tu dinero, tirado."</td><td>Disolución en baba ácida</td></tr>
+<tr><td>3</td><td>El Spray (Alfa) domina</td><td>Contrapicado, dorado</td><td>"Yo soy Blink Fusion. Dos sprays, ojos cerrados, parpadeas cinco veces. Llego a donde ella jamás pudo."</td><td>Gota dorada atravesando párpado</td></tr>
+<tr><td>4</td><td>VisionPure · cierre</td><td>Plano producto</td><td>"Deja de tragar pastillas que no llegan. VisionPure, en el link. Garantía total."</td><td>Frasco brillante, ojo nítido</td></tr>
+</table>
+
+<div class="guion"><b>📜 Guion corrido:</b><br>
+<b>[Spray VisionPure — Alfa]</b> "Yo entro por el párpado, directo a la mácula." <b>[Cápsula — Patético]</b> "Yo… me disuel—" <b>[Spray]</b> "¡Cállate! Te derrites en el estómago." <b>[Cápsula]</b> "Llego al ácido y… adiós; nunca toco tu ojo. Tu dinero, tirado." <b>[Spray]</b> "Yo soy Blink Fusion: dos sprays, ojos cerrados, parpadeas cinco veces. Llego a donde ella jamás pudo." <b>[VisionPure]</b> "Deja de tragar pastillas que no llegan. VisionPure, en el link. Garantía total."</div>
+<div class="note">El Alfa interrumpe al Patético cuando intenta hablar (quitarle la voz refuerza que no merece defenderse). Status gap por cámara: contrapicado al spray, picado a la cápsula.</div>
+</div>
+
+<!-- ============ CIERRE ============ -->
+<h2>Cómo usar estos guiones</h2>
+<table>
+<tr><th>Paso</th><th>Acción</th></tr>
+<tr><td>1</td><td>Cada <b>fila = una escena de 7-8 s</b>. Genera el clip con el <b>prompt base</b> + las columnas Cámara/Textura/VFX de esa fila.</td></tr>
+<tr><td>2</td><td>Graba el <b>audio en primera persona</b> (una voz por personaje) respetando 25-40 palabras por escena.</td></tr>
+<tr><td>3</td><td>Ensambla en orden; el <b>producto siempre al final</b>.</td></tr>
+<tr><td>4</td><td><b>Orden de testeo sugerido:</b> arrancar con Guion 1 ("Soy tu ojo") y Guion 3 ("¡PARA!") — los de mayor gancho; Guion 4 como corto para TikTok; Guion 2 para retargeting.</td></tr>
+</table>
+
+<p style="margin-top:24px;color:#666;font-size:9pt;">VisionPure · Guiones Animación Cartoon IA · mismo ADN de mensaje que el Ad "3" live-action, envoltorio cartoon · GL-MEX2 / alegrestiendamexico.com.</p>
+
+</body>
+</html>

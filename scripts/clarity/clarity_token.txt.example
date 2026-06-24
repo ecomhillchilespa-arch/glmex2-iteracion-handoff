@@ -1,0 +1,4 @@
+PEGA_AQUI_TU_JWT_DE_CLARITY
+# Genera el token en el dashboard de Microsoft Clarity:
+#   Settings -> Data Export -> Generate new API token  (scope: Data.Export)
+# Luego renombra este archivo a  clarity_token.txt  (que está en .gitignore).

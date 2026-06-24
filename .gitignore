@@ -1,0 +1,22 @@
+# Secretos
+.env
+scripts/clarity/clarity_token.txt
+
+# Salidas / intermedios regenerables
+scripts/clarity/raw/
+scripts/clarity/*_b64.txt
+**/*.xlsx
+
+# Media pesada (no debe entrar al handoff)
+*.mp4
+*.mp3
+*.wav
+**/_frames/
+**/frames/
+**/_sheets/
+
+# Sistema
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc

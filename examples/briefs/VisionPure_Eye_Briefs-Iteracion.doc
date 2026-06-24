@@ -1,0 +1,401 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="ProgId" content="Word.Document">
+<title>VisionPure — Briefs de Iteración</title>
+<style>
+ body{font-family:Calibri,Arial,sans-serif;font-size:11pt;color:#1a1a1a;line-height:1.4;}
+ h1{font-size:20pt;color:#0b3d91;border-bottom:3px solid #0b3d91;padding-bottom:4px;}
+ h2{font-size:15pt;color:#0b3d91;margin-top:24px;border-bottom:1px solid #bbb;padding-bottom:2px;}
+ h3{font-size:12.5pt;color:#222;margin-top:16px;}
+ table{border-collapse:collapse;width:100%;margin:8px 0;font-size:10pt;}
+ th,td{border:1px solid #999;padding:5px 7px;vertical-align:top;text-align:left;}
+ th{background:#0b3d91;color:#fff;}
+ tr:nth-child(even){background:#eef2fb;}
+ .meta td:first-child{background:#dfe7f7;font-weight:bold;width:24%;}
+ .hook{background:#fff8d6;border-left:4px solid #e0a800;padding:6px 10px;margin:4px 0;}
+ .note{background:#f3f3f3;border-left:4px solid #888;padding:6px 10px;font-size:10pt;}
+ .tag{display:inline-block;background:#0b3d91;color:#fff;padding:1px 8px;border-radius:3px;font-size:9pt;}
+</style>
+</head>
+<body>
+
+<h1>VisionPure — Briefs de Iteración de Conceptos</h1>
+<p><b>Cuenta:</b> GL-MEX2 &nbsp;·&nbsp; <b>Campaña:</b> Eye CBO &nbsp;·&nbsp; <b>Mercado:</b> México (MXN) &nbsp;·&nbsp; <b>Fecha:</b> Jun 2026</p>
+<p><b>Ganador a batir:</b> <span class="tag">SO6 AD 37</span> — ROAS <b>3,07</b> · CTR 8,18% · CPC $0,27. Video de mecanismo/demostración (Solution Aware) que deja sin explotar la confesión 1ª persona, la autoridad cara-a-cámara, el villano como concepto central y la entrada en miedo profundo.</p>
+
+<table class="meta">
+ <tr><td>Producto</td><td>VisionPure — spray de luteína de aplicación en el párpado. Absorción directa (no cápsula).</td></tr>
+ <tr><td>Avatar núcleo</td><td>Adultos 55+ con visión borrosa, miedo a degeneración macular / cataratas / ceguera. Deseo central = <b>INDEPENDENCIA</b> (manejar, leer, no depender de nadie).</td></tr>
+ <tr><td>Mecanismo / USP</td><td>Las cápsulas (AREDS2) se disuelven en el estómago → ~90% no llega al ojo. El spray entra por el párpado → absorción directa, "reconstruye".</td></tr>
+ <tr><td>Enemigo</td><td>La cápsula / la entrega digestiva fallida. Secundario: la cirugía de cataratas (cristalino de plástico, ojo seco permanente).</td></tr>
+ <tr><td>Promo a incluir</td><td>[DEFINIR — ej. 50% OFF + garantía 90 días]. Si hay venta, mencionarla en el hook o justo después (tiempo de view promedio = 7s).</td></tr>
+</table>
+
+<h2>Matriz de cobertura (aplicamos todos los frameworks)</h2>
+<table>
+ <tr><th>#</th><th>Concepto</th><th>Framework dominante</th><th>Narrador</th><th>Funnel / Awareness</th><th>Página (whitelist)</th></tr>
+ <tr><td>1</td><td>"La cirugía seguía ahí"</td><td>Identidad Reclamada + Confesión</td><td>1ª persona (paciente)</td><td>MOFU / Problem→Solution</td><td>Personal</td></tr>
+ <tr><td>2</td><td>"Soy oftalmóloga y dejé de recetar cápsulas"</td><td>Breakthrough (Exposure) + Autoridad</td><td>Experta a cámara</td><td>MOFU / Solution Aware</td><td>Credencial/Doctora</td></tr>
+ <tr><td>3</td><td>"Tu luteína de $40 nunca llegó"</td><td>Villain Marketing</td><td>2ª persona / News</td><td>MOFU / Solution Aware</td><td>Marca o News</td></tr>
+ <tr><td>4</td><td>"El día que mamá dejó de ver las caras"</td><td>Breakthrough (miedo/culpa) + Emotional Valence</td><td>1ª persona proxy (hijo/a)</td><td>TOFU / Unaware→Problem</td><td>Personal</td></tr>
+ <tr><td>5</td><td>"Miles están cancelando su cirugía"</td><td>Comunidad/Movimiento + Fascination</td><td>Comunidad / News</td><td>TOFU / Unaware→Problem</td><td>News/Theme o Marca</td></tr>
+ <tr><td>6</td><td>"Síntomas que crees que son la edad"</td><td>Unaware (Estados de ser) + Fascination</td><td>2ª persona / narrador</td><td>TOFU / Unaware</td><td>Marca o News</td></tr>
+ <tr><td>7</td><td>"Mi papá se quedó ciego, por eso creé esto"</td><td>Brand Story + Villain (Societal Ill)</td><td>Fundador/a</td><td>MOFU / Problem→Solution</td><td>Marca / Fundador</td></tr>
+ <tr><td>8</td><td>"3 razones por las que tu vista empeora"</td><td>Fascination (List) + Infotainment nativo</td><td>Creador nativo (TikTok)</td><td>TOFU / Unaware→Problem</td><td>Personal / Theme</td></tr>
+ <tr><td>9</td><td>"Pensé que era una estafa"</td><td>Breakthrough (objeción) + Reseña</td><td>1ª persona (escéptico)</td><td>BOFU / Product Aware</td><td>Personal</td></tr>
+ <tr><td>10</td><td>"Le subieron el brillo al mundo"</td><td>Emotional Valence positiva + Preventivo</td><td>1ª persona / 2ª persona</td><td>MOFU / Solution Aware</td><td>Personal o Marca</td></tr>
+</table>
+<p class="note">Fascinations (Zeigarnik) en todos los hooks. Emotional Valence rige cada Script Flow (negativo estrecha atención → positivo expande hacia la solución). Todos cierran en la Identidad Reclamada: "recupera tu independencia". Congruencia ad→landing según el nivel de conciencia.</p>
+
+<h3>Banco de Voz de Cliente (lenguaje real — usar literal en captions y guiones)</h3>
+<table>
+ <tr><th>Tema</th><th>Frase real (fuente: foros/testimonios/estudios)</th><th>Tipo</th></tr>
+ <tr><td>Cómo ven</td><td>"la vida a baja resolución" · "veía distorsionado, no podía leer con ese ojo" · "los colores se ven apagados" · "las líneas rectas se ven onduladas"</td><td>Verbatim / Clínico</td></tr>
+ <tr><td>Miedo / dependencia</td><td>"dependerá de la ayuda de los demás" · miedo a la ceguera y a la dependencia (>4/5 en pacientes DMAE)</td><td>Verbatim / Dato</td></tr>
+ <tr><td>Resultado deseado</td><td>"puedo ver como no veía desde hace muchos años" · "ya no uso gafas, estoy en una nube" · "la claridad me cambió la calidad de vida"</td><td>Verbatim</td></tr>
+ <tr><td>Cápsula / absorción</td><td>Hay que tomarla "con comidas grasas para que se absorba"; "se desconoce si el suplemento funciona igual que la luteína de los alimentos"</td><td>Sustanciación</td></tr>
+ <tr><td>Claim con respaldo</td><td>Estudio: luteína/zeaxantina <b>mejoró la conducción nocturna</b> y la agudeza visual en degeneración temprana</td><td>Sustanciación</td></tr>
+</table>
+<p class="note">Detalle completo y fuentes en <i>documentos/voz-de-cliente-VisionPure.md</i>. El claim "vuelve a manejar de noche" está sustanciado por estudio. La fuente de lenguaje MÁS específico de tu audiencia serían los comentarios de tus ads de Eye (Meta MCP) — pendiente.</p>
+
+<!-- ============ CONCEPTO 1 ============ -->
+<h2>CONCEPTO 1 — "La cirugía seguía ahí"</h2>
+<p><b>Frameworks:</b> Identidad Reclamada + Perspective-Shift (Confesión 1ª persona) + Emotional Valence (miedo/pérdida).</p>
+<table class="meta">
+ <tr><td>Persona</td><td><b>"María, la que tenía cita en el quirófano"</b> — mujer 58–72 con catarata/degeneración, cirugía sugerida o programada, aterrada por lo "permanente/irreversible".</td></tr>
+ <tr><td>Funnel / Awareness</td><td>MOFU (Consideración) · Problem→Solution Aware</td></tr>
+ <tr><td>Tone</td><td>Íntimo, confesional, testimonio real. Sin tono de ad.</td></tr>
+ <tr><td>Key Messages</td><td>1) La cirugía es permanente e irreversible. 2) Hay una alternativa que actúa antes del quirófano. 3) Recuperas tu independencia (manejar/leer).</td></tr>
+ <tr><td>Angle / Pain a testear</td><td>Miedo a la cirugía + pérdida de independencia</td></tr>
+ <tr><td>Concepto a testear</td><td>¿La confesión en 1ª persona supera a la demostración de mecanismo? (replica el vértice de SO3 30.1, ROAS 4,27)</td></tr>
+ <tr><td>Enemigo / Blame shift</td><td>La cirugía de cataratas. "No eres tú — nadie te ofreció otra puerta antes del quirófano."</td></tr>
+</table>
+<h3>3 Hooks (5–10 palabras)</h3>
+<div class="hook">1. "Tenía la cirugía de cataratas para el 14 de marzo. La cancelé."</div>
+<div class="hook">2. "Mi cirujano nunca me dijo esto sobre la operación."</div>
+<div class="hook">3. "Mi esposo encontró algo 4 semanas antes de mi cirugía."</div>
+<h3>Script Flow (&lt;90s)</h3>
+<table>
+ <tr><th>Sección</th><th>Voz en off (guía)</th><th>Visual sugerido</th><th>Texto en pantalla</th></tr>
+ <tr><td>Hook (0–3s)</td><td>"Tenía la cirugía de cataratas programada para el 14 de marzo."</td><td>Creadora real 60+ a cámara, íntima</td><td>"La cancelé 4 semanas después"</td></tr>
+ <tr><td>Root Problem (físico+emocional)</td><td>"Me la explicaron como rutina. Lo que no me dijeron: 42% termina con ojo seco crónico permanente, y te quitan tu cristalino natural."</td><td>Frasco de medicinas, sala de espera</td><td>"Permanente. Irreversible."</td></tr>
+ <tr><td>Failed Solution + Trigger</td><td>"Mi esposo encontró un spray de luteína. Le dije que estaba loco — cómo iba a hacer lo que un cirujano no podía."</td><td>Escepticismo, ella negando con la cabeza</td><td>"Yo no le creí"</td></tr>
+ <tr><td>Root Solution</td><td>"Me convenció de probarlo 4 semanas. 'La cirugía sigue ahí si no funciona', me dijo."</td><td>Mano con el frasco VisionPure</td><td>"La cirugía sigue ahí…"</td></tr>
+ <tr><td>Mechanism (breve)</td><td>"La luteína no llega en cápsula: se disuelve en el estómago. Este spray entra por el párpado."</td><td>Diagrama párpado vs estómago</td><td>"Directo al ojo"</td></tr>
+ <tr><td>Demo / Results (Semana 1→4)</td><td>"Semana 1: menos nublado. Semana 2: leí la letra chica sin lentes. Semana 3: manejé de noche. Semana 4: el cirujano canceló la operación."</td><td>Insertos cronológicos: libro, manejar de noche</td><td>"Semana 1 / 2 / 3 / 4"</td></tr>
+ <tr><td>Pico emocional</td><td>"No lloré en el consultorio. Lloré en el carro."</td><td>Primer plano emocional</td><td>—</td></tr>
+ <tr><td>Social Proof</td><td>"Ya lo usan miles contra la degeneración macular."</td><td>Collage de usuarios</td><td>"Usado por miles"</td></tr>
+ <tr><td>CTA</td><td>"$499 contra una cirugía que no necesité. Revisa el enlace."</td><td>Producto + ella manejando</td><td>"Recupera tu independencia"</td></tr>
+</table>
+<p><b>Edición:</b> UGC raw, fast cuts suaves, música cálida. <b>Página:</b> personal. <b>Objetivo:</b> CTR ≥9% · ROAS ≥3,5.</p>
+
+<!-- ============ CONCEPTO 2 ============ -->
+<h2>CONCEPTO 2 — "Soy oftalmóloga y dejé de recetar cápsulas"</h2>
+<p><b>Frameworks:</b> Breakthrough (Exposure Catalyst) + Perspective-Shift (Autoridad).</p>
+<table class="meta">
+ <tr><td>Persona</td><td><b>"Jorge, el que ya probó cápsulas sin resultado"</b> — 55+ escéptico, desconfía de "otro suplemento".</td></tr>
+ <tr><td>Funnel / Awareness</td><td>MOFU · Solution Aware</td></tr>
+ <tr><td>Tone</td><td>Autoridad cercana; experta "rompiendo el guion" del gremio.</td></tr>
+ <tr><td>Key Messages</td><td>1) 90% de la luteína en cápsula se destruye antes de llegar al ojo. 2) El problema no es la luteína, es cómo llega. 3) Entrega por párpado = absorción directa.</td></tr>
+ <tr><td>Angle / Pain a testear</td><td>"Estoy tirando mi dinero en cápsulas que no sirven"</td></tr>
+ <tr><td>Concepto a testear</td><td>¿La autoridad real a cámara supera a la voz en off?</td></tr>
+ <tr><td>Enemigo / Blame shift</td><td>La cápsula de luteína. "No es que la luteína no sirva — es CÓMO llega."</td></tr>
+</table>
+<h3>3 Hooks</h3>
+<div class="hook">1. "Soy oftalmóloga 24 años y dejé de recetar luteína en cápsula."</div>
+<div class="hook">2. "El 90% de tu luteína se destruye antes de llegar a tus ojos."</div>
+<div class="hook">3. "¿Tu doctor te dijo que tomes la luteína 'con grasa para que se absorba'? Por algo será."</div>
+<p class="note">Voz de cliente: la cápsula necesita grasa para absorberse y "se desconoce si funciona igual que la luteína de los alimentos" → usar como prueba del fallo de entrega.</p>
+<h3>Script Flow (&lt;90s)</h3>
+<table>
+ <tr><th>Sección</th><th>Voz en off (guía)</th><th>Visual sugerido</th><th>Texto en pantalla</th></tr>
+ <tr><td>Hook (0–3s)</td><td>"Soy oftalmóloga con 24 años de experiencia, y dejé de recetar luteína en cápsula."</td><td>Doctora real, bata/consultorio, a cámara</td><td>"Oftalmóloga · 24 años"</td></tr>
+ <tr><td>Root Problem</td><td>"La luteína es el nutriente más estudiado para tus ojos. Pero en cápsula, el 90% se destruye en tu digestión."</td><td>Cápsulas cayendo en ácido (CGI estómago)</td><td>"90% se destruye"</td></tr>
+ <tr><td>Failed Solution + Trigger</td><td>"Mis pacientes la tomaban meses sin ver resultados. El problema no era la luteína: era cómo llegaba."</td><td>Frasco de cápsulas, paciente frustrado</td><td>"Meses sin resultados"</td></tr>
+ <tr><td>Root Solution + Mechanism</td><td>"VisionPure la entrega por el párpado cerrado. Se absorbe en segundos, sin pasar por el estómago."</td><td>Aplicación del spray + diagrama párpado</td><td>"Directo al ojo, en segundos"</td></tr>
+ <tr><td>Demo / Results</td><td>"Mis pacientes con cataratas y degeneración por fin empezaron a ver resultados. Algunos en semanas."</td><td>Adultos mayores leyendo/manejando</td><td>"Resultados en semanas"</td></tr>
+ <tr><td>USPs</td><td>"Probado por laboratorios independientes. Hecho en EE.UU. Garantía de 90 días."</td><td>Iconos: lab, USA, 90 días</td><td>"Lab · USA · 90 días"</td></tr>
+ <tr><td>Social Proof</td><td>"Esto no es moda. Es ciencia. Y ya lo usan miles."</td><td>Collage usuarios</td><td>"Usado por miles"</td></tr>
+ <tr><td>CTA (no vendedor)</td><td>"Si tu visión empezó a fallar, vale la pena conocerlo. El enlace está abajo."</td><td>Producto en mano</td><td>"Revisa el enlace"</td></tr>
+</table>
+<p><b>Edición:</b> limpia/clínica, paleta azul-teal (confianza), green screen para diagramas. <b>Página:</b> credencial/doctora (obligatorio). <b>Compliance:</b> "apoya/protege", evitar "cura/revierte".</p>
+
+<!-- ============ CONCEPTO 3 ============ -->
+<h2>CONCEPTO 3 — "Tu luteína de $40 nunca llegó a tus ojos"</h2>
+<p><b>Frameworks:</b> Villain Marketing (enemigo = la cápsula como concepto central).</p>
+<table class="meta">
+ <tr><td>Persona</td><td><b>"Rosa, la que ya gastó en AREDS2"</b> — 55+ que compró cápsulas sin notar mejora, siente que la estafaron.</td></tr>
+ <tr><td>Funnel / Awareness</td><td>MOFU · Solution Aware</td></tr>
+ <tr><td>Tone</td><td>Exposé / indignación justa. Confrontativo pero educativo.</td></tr>
+ <tr><td>Key Messages</td><td>1) Las cápsulas se disuelven en el estómago, no llegan al ojo. 2) No fallaste tú, falló la pastilla. 3) Entrega por párpado = la luteína por fin llega.</td></tr>
+ <tr><td>Angle / Pain a testear</td><td>"Llevo meses pagando algo que no funciona"</td></tr>
+ <tr><td>Concepto a testear</td><td>¿El villano como concepto CENTRAL (no subtexto) sube clic e indignación?</td></tr>
+ <tr><td>Enemigo / Blame shift</td><td>La cápsula / el ácido estomacal (Outdated Tool). "No fallaste tú, falló dónde terminó."</td></tr>
+</table>
+<h3>3 Hooks</h3>
+<div class="hook">1. "Llevas meses pagando luteína que se disuelve en tu estómago."</div>
+<div class="hook">2. "Las cápsulas de luteína no fallan por la luteína — fallan por dónde terminan."</div>
+<div class="hook">3. "Hasta el frasco te pide tomarla 'con grasa para que se absorba'. Aun así, el 90% no llega."</div>
+<h3>Script Flow (&lt;90s)</h3>
+<table>
+ <tr><th>Sección</th><th>Voz en off (guía)</th><th>Visual sugerido</th><th>Texto en pantalla</th></tr>
+ <tr><td>Hook (0–3s)</td><td>"Tu luteína de $40 nunca llegó a tus ojos. Y te explico por qué."</td><td>Bote AREDS2 + spray, contraste alto</td><td>"$40 tirados a la basura"</td></tr>
+ <tr><td>Mundo ordinario</td><td>"Tomas tu cápsula cada mañana. Meses. Y tu visión sigue igual."</td><td>Rutina de cápsula, calendario</td><td>"Meses sin cambio"</td></tr>
+ <tr><td>Villano revelado</td><td>"Las cápsulas se disuelven en el ácido del estómago. El 90% se pierde antes de llegar al ojo."</td><td>Cápsula cayendo en ácido (CGI), "X" sobre pastilla</td><td>"90% se pierde"</td></tr>
+ <tr><td>Guía aparece</td><td>"VisionPure salta el estómago: entra por el párpado, directo al ojo."</td><td>Aplicación del spray + diagrama párpado</td><td>"Salta el estómago"</td></tr>
+ <tr><td>Victoria / Demo</td><td>"Por primera vez, la luteína llega a donde la necesitas. La visión borrosa empieza a suavizarse."</td><td>Demostración ojo, lectura sin lentes</td><td>"Por fin llega"</td></tr>
+ <tr><td>USPs</td><td>"Misma luteína que AREDS2 — sin el estómago de por medio. Garantía 90 días."</td><td>Iconos comparativos</td><td>"Misma luteína, mejor entrega"</td></tr>
+ <tr><td>Tribu / Social Proof</td><td>"Miles ya dejaron las cápsulas por esto."</td><td>Collage usuarios</td><td>"Miles ya cambiaron"</td></tr>
+ <tr><td>CTA</td><td>"Deja de pagar por algo que no llega. Revisa el enlace."</td><td>Producto en mano</td><td>"Cambia hoy"</td></tr>
+</table>
+<p><b>Edición:</b> contraste alto, flechas/"X", split-screen cápsula vs spray. <b>Página:</b> marca o news. <b>Compliance FTC:</b> atacar el mecanismo/status quo (cápsula genérica); si se muestra AREDS2, claims comparables deben ser sustanciables.</p>
+
+<!-- ============ CONCEPTO 4 ============ -->
+<h2>CONCEPTO 4 — "El día que mamá dejó de ver las caras de sus nietos"</h2>
+<p><b>Frameworks:</b> Breakthrough (capa miedo/culpa profunda) + Emotional Valence (grief) + comprador proxy.</p>
+<table class="meta">
+ <tr><td>Persona</td><td><b>"Ana, la hija que compra para su mamá"</b> — 35–55, padres con visión deteriorada; culpa ("no hice suficiente") + miedo a verlos perder independencia.</td></tr>
+ <tr><td>Funnel / Awareness</td><td>TOFU · Unaware→Problem Aware (lidera con síntomas, no con producto)</td></tr>
+ <tr><td>Tone</td><td>Documental emotivo, cálido-melancólico → resolución luminosa.</td></tr>
+ <tr><td>Key Messages</td><td>1) "Es la edad" es mentira: la degeneración avanza en silencio. 2) Se puede frenar/reconstruir con luteína que sí llega. 3) Recupera a tu mamá/papá de antes.</td></tr>
+ <tr><td>Angle / Pain a testear</td><td>Culpa + grief del comprador proxy (hijo/a)</td></tr>
+ <tr><td>Concepto a testear</td><td>¿Un hook de pérdida en comprador proxy abre mercado nuevo y baja CPA?</td></tr>
+ <tr><td>Enemigo / Blame shift</td><td>La degeneración silenciosa + la resignación ("es la edad").</td></tr>
+</table>
+<h3>3 Hooks</h3>
+<div class="hook">1. "El día que mi mamá dejó de reconocer las caras en las fotos…"</div>
+<div class="hook">2. "Dejó de manejar. Luego dejó de leer. No era normal."</div>
+<div class="hook">3. "Si tu papá ya no maneja de noche, no es la edad."</div>
+<h3>Script Flow (&lt;90s)</h3>
+<table>
+ <tr><th>Sección</th><th>Voz en off (guía)</th><th>Visual sugerido</th><th>Texto en pantalla</th></tr>
+ <tr><td>Hook (0–3s)</td><td>"El día que mi mamá dejó de reconocer las caras en las fotos, entendí que 'es la edad' era mentira."</td><td>Hija a cámara, foto familiar en mano</td><td>"No era 'la edad'"</td></tr>
+ <tr><td>Síntomas (Unaware)</td><td>"Primero dejó de manejar de noche. Luego de leer. Entrecerraba los ojos para ver la tele. Yo pensé que era normal."</td><td>B-roll mamá: lentes, TV, libro cerrado</td><td>"Las señales que ignoré"</td></tr>
+ <tr><td>Revelación (Problem)</td><td>"La degeneración macular avanza en silencio. Pero se puede frenar — y hasta reconstruir."</td><td>Visualización ojo/mácula</td><td>"Avanza en silencio"</td></tr>
+ <tr><td>Root Solution + Mechanism</td><td>"Le compré un spray de luteína que entra por el párpado. La cápsula no sirve: se pierde en el estómago."</td><td>Aplicación + diagrama párpado</td><td>"Directo al ojo"</td></tr>
+ <tr><td>Transformación</td><td>"Semanas después, leyó un mensaje sola. Reconoció a sus nietos en una foto. Volvió a manejar."</td><td>Mamá leyendo, con nietos, sonriendo</td><td>"La recuperé"</td></tr>
+ <tr><td>Identidad reclamada</td><td>"Recuperé a mi mamá de antes. Su independencia."</td><td>Primer plano emocional madre-hija</td><td>—</td></tr>
+ <tr><td>Social Proof</td><td>"Ya lo usan miles contra la degeneración macular."</td><td>Collage usuarios</td><td>"Usado por miles"</td></tr>
+ <tr><td>CTA</td><td>"Si tu papá o mamá empezó a perder visión, revisa el enlace. Regálale su independencia."</td><td>Producto + familia</td><td>"Regálale su independencia"</td></tr>
+</table>
+<p><b>Edición:</b> documental cálido, fotos, manos/ojos en primer plano. <b>Página:</b> personal (hija/o). <b>Estacional:</b> Día de la Madre/Padre. <b>Compliance:</b> "ayuda a frenar/apoya", nada de "cura ceguera".</p>
+
+<!-- ============ CONCEPTO 5 ============ -->
+<h2>CONCEPTO 5 — "Miles están cancelando su cirugía de cataratas"</h2>
+<p><b>Frameworks:</b> Comunidad/Movimiento + Fascination (prueba social / FOMO).</p>
+<table class="meta">
+ <tr><td>Persona</td><td><b>"Pedro, el averso al riesgo"</b> — 55+ que necesita validación de pares antes de probar "otro suplemento".</td></tr>
+ <tr><td>Funnel / Awareness</td><td>TOFU · Unaware→Problem (entrada tipo noticia/tendencia)</td></tr>
+ <tr><td>Tone</td><td>Editorial / news, tendencia, números en pantalla.</td></tr>
+ <tr><td>Key Messages</td><td>1) Miles de 60+ ya lo hacen. 2) Mecanismo párpado vs cápsula que no llega. 3) Escasez real (se agota).</td></tr>
+ <tr><td>Angle / Pain a testear</td><td>Riesgo percibido / "¿de verdad funciona?"</td></tr>
+ <tr><td>Concepto a testear</td><td>¿El framing de movimiento + noticia bate al testimonio individual en frío?</td></tr>
+ <tr><td>Enemigo / Blame shift</td><td>La cirugía y las cápsulas que no llegan (status quo).</td></tr>
+</table>
+<h3>3 Hooks</h3>
+<div class="hook">1. "Miles de adultos mayores están cancelando su cirugía de cataratas."</div>
+<div class="hook">2. "Cada vez más 60+ dejan las cápsulas por este método."</div>
+<div class="hook">3. "El método que el 42% desearía haber conocido antes del quirófano."</div>
+<h3>Script Flow (&lt;90s)</h3>
+<table>
+ <tr><th>Sección</th><th>Voz en off (guía)</th><th>Visual sugerido</th><th>Texto en pantalla</th></tr>
+ <tr><td>Hook (0–3s)</td><td>"Miles de adultos mayores están cancelando su cirugía de cataratas. Esto fue lo que descubrieron."</td><td>Montaje rápido de varias caras 55+</td><td>"Miles ya cancelaron"</td></tr>
+ <tr><td>Root Problem</td><td>"La cirugía es permanente. Y las cápsulas de luteína no llegan: se pierden en el estómago."</td><td>Quirófano + cápsula en ácido</td><td>"No llega · es permanente"</td></tr>
+ <tr><td>Root Solution + Mechanism</td><td>"Por eso descubrieron el spray que entra por el párpado, directo al ojo."</td><td>Aplicación + diagrama</td><td>"Directo al ojo"</td></tr>
+ <tr><td>Social Proof en cadena</td><td>"47.000+ personas en los últimos 90 días. Diferentes edades, misma historia."</td><td>Collage de usuarios + números</td><td>"47.000+ en 90 días"</td></tr>
+ <tr><td>Demo / Results</td><td>"Semana 1: menos borroso. Semana 3: manejan de noche otra vez."</td><td>Usuarios leyendo/manejando</td><td>"Semana 1 / 3"</td></tr>
+ <tr><td>Urgencia (escasez)</td><td>"Se está agotando — corre la voz."</td><td>Estantes vacíos</td><td>"Se está agotando"</td></tr>
+ <tr><td>CTA</td><td>"Únete. Revisa el enlace y recupera tu independencia."</td><td>Producto en mano</td><td>"Únete al cambio"</td></tr>
+</table>
+<p><b>Edición:</b> editorial/news, múltiples rostros (diversidad 55+), números on-screen. <b>Página:</b> news/theme o marca. <b>Objetivo:</b> mejor en frío escéptico.</p>
+
+<!-- ============ CONCEPTO 6 ============ -->
+<h2>CONCEPTO 6 — "Síntomas que crees que son la edad"</h2>
+<p><b>Frameworks:</b> Unaware (Estados de ser) + Fascination (Warning/Question) + Emotional Valence (validar antes de revelar).</p>
+<table class="meta">
+ <tr><td>Persona</td><td><b>"Don Luis, el que cree que 'ya es la edad'"</b> — 55+ que NO sabe que tiene degeneración; atribuye sus síntomas a la vejez.</td></tr>
+ <tr><td>Funnel / Awareness</td><td>TOFU · Unaware (lidera con síntomas, no con producto ni problema nombrado)</td></tr>
+ <tr><td>Tone</td><td>Cercano, revelador; "esto que te pasa tiene nombre y solución".</td></tr>
+ <tr><td>Key Messages</td><td>1) Tus síntomas no son "la edad". 2) Son señales de degeneración temprana. 3) Se puede frenar con luteína que sí llega.</td></tr>
+ <tr><td>Angle / Pain a testear</td><td>Síntomas cotidianos (entrecerrar, luz, noche) mal atribuidos a la edad</td></tr>
+ <tr><td>Concepto a testear</td><td>¿Liderar con síntomas (Unaware) abre tráfico más barato que entrar por el problema/solución?</td></tr>
+ <tr><td>Enemigo / Blame shift</td><td>La resignación ("es la edad") + la degeneración silenciosa. "No es que estés viejo — es algo que sí se frena."</td></tr>
+</table>
+<h3>3 Hooks</h3>
+<div class="hook">1. "¿Las líneas rectas se te ven onduladas? No es la edad."</div>
+<div class="hook">2. "Si los colores se te ven apagados y ya no manejas de noche, esto te interesa."</div>
+<div class="hook">3. "3 señales que confundes con vejez (y en realidad son tus ojos)."</div>
+<p class="note">Voz de cliente (síntomas reales): "la vida a baja resolución", "los colores se ven apagados", "líneas rectas onduladas", "no podía leer".</p>
+<h3>Script Flow (&lt;90s)</h3>
+<table>
+ <tr><th>Sección</th><th>Voz en off (guía)</th><th>Visual sugerido</th><th>Texto en pantalla</th></tr>
+ <tr><td>Hook (0–3s)</td><td>"¿Entrecierras los ojos para leer el celular? ¿Te molesta la luz? Crees que es la edad…"</td><td>Persona 60+ entrecerrando ojos ante el celular</td><td>"No es la edad"</td></tr>
+ <tr><td>Síntomas (estados de ser)</td><td>"Lees con más luz. Evitas manejar de noche. Los colores se ven apagados. Te cansa la vista a media tarde."</td><td>B-roll: lámpara, carretera nocturna, TV apagada</td><td>"¿Te suena?"</td></tr>
+ <tr><td>Revelación (Problem)</td><td>"Eso no es envejecer. Son las primeras señales de degeneración macular — y avanzan en silencio."</td><td>Visualización mácula deteriorándose</td><td>"Avanza en silencio"</td></tr>
+ <tr><td>Root Solution + Mechanism</td><td>"La luteína lo frena. Pero en cápsula no llega: se pierde en el estómago. Este spray entra por el párpado."</td><td>Aplicación + diagrama párpado vs estómago</td><td>"Directo al ojo"</td></tr>
+ <tr><td>Demo / Results</td><td>"En semanas: la visión borrosa se suaviza, el mundo recupera brillo, vuelves a manejar de noche."</td><td>Antes/después: lectura, manejar</td><td>"Semana 1 → 3"</td></tr>
+ <tr><td>Social Proof</td><td>"Ya lo usan miles que también pensaban que 'era la edad'."</td><td>Collage usuarios</td><td>"Usado por miles"</td></tr>
+ <tr><td>CTA</td><td>"Si te identificaste, revisa el enlace. No es la edad — es algo que puedes frenar hoy."</td><td>Producto en mano</td><td>"Frénalo hoy"</td></tr>
+</table>
+<p><b>Edición:</b> nativo, dinámico, captions enfáticos en los síntomas. <b>Página:</b> marca o news. <b>Objetivo:</b> CPM/CPC bajo en frío amplio.</p>
+
+<!-- ============ CONCEPTO 7 ============ -->
+<h2>CONCEPTO 7 — "Mi papá se quedó ciego, por eso creé esto"</h2>
+<p><b>Frameworks:</b> Brand Story (StoryBrand) + Villain Marketing (Societal Ill / el sistema) + Identidad.</p>
+<table class="meta">
+ <tr><td>Persona</td><td><b>"El comprador con un padre en riesgo"</b> — 45–65, vio a un familiar perder la vista, teme el mismo destino para sí o sus padres.</td></tr>
+ <tr><td>Funnel / Awareness</td><td>MOFU · Problem→Solution Aware</td></tr>
+ <tr><td>Tone</td><td>Misión personal, fundador/a honesto, propósito por encima de venta.</td></tr>
+ <tr><td>Key Messages</td><td>1) La degeneración me quitó a mi papá. 2) Descubrí que las cápsulas no llegan al ojo. 3) Creé una entrega que sí llega.</td></tr>
+ <tr><td>Angle / Pain a testear</td><td>Miedo a heredar/repetir la ceguera de un ser querido</td></tr>
+ <tr><td>Concepto a testear</td><td>¿La historia de origen del fundador genera más confianza y ROAS que el testimonio de usuario?</td></tr>
+ <tr><td>Enemigo / Blame shift</td><td>El sistema que solo ofrece cápsulas que no llegan y cirugía. "Nadie nos dio una opción real a tiempo."</td></tr>
+</table>
+<h3>3 Hooks</h3>
+<div class="hook">1. "Mi papá se quedó ciego esperando que las pastillas funcionaran."</div>
+<div class="hook">2. "Creé esto porque vi a mi papá perder la vista en silencio."</div>
+<div class="hook">3. "Nadie nos dijo que las cápsulas de luteína no llegan al ojo."</div>
+<h3>Script Flow (&lt;90s)</h3>
+<table>
+ <tr><th>Sección</th><th>Voz en off (guía)</th><th>Visual sugerido</th><th>Texto en pantalla</th></tr>
+ <tr><td>Hook (0–3s)</td><td>"Mi papá se quedó ciego esperando que las pastillas funcionaran."</td><td>Fundador/a a cámara, foto del padre</td><td>"Por eso creé esto"</td></tr>
+ <tr><td>Mundo ordinario + pérdida</td><td>"Tomaba su luteína todos los días. Confiaba en ella. Igual perdió la vista."</td><td>Foto familiar, frasco de cápsulas</td><td>"Hacía todo bien"</td></tr>
+ <tr><td>Villano revelado</td><td>"Después entendí por qué: las cápsulas se disuelven en el estómago. El 90% nunca llega al ojo."</td><td>CGI cápsula en ácido</td><td>"90% nunca llega"</td></tr>
+ <tr><td>Misión / Root Solution</td><td>"Me obsesioné con una sola pregunta: ¿cómo hacer que la luteína llegue de verdad? La respuesta: el párpado."</td><td>Diagrama párpado, desarrollo del producto</td><td>"Directo al ojo"</td></tr>
+ <tr><td>Producto + Mechanism</td><td>"Así nació VisionPure. Un spray que entra por el párpado y se absorbe en segundos."</td><td>Aplicación del spray</td><td>"Absorción en segundos"</td></tr>
+ <tr><td>Results / Social Proof</td><td>"Hoy miles lo usan para frenar lo que a mi papá nadie pudo frenar a tiempo."</td><td>Collage usuarios sonrientes</td><td>"Usado por miles"</td></tr>
+ <tr><td>CTA (con propósito)</td><td>"No llegué a tiempo para mi papá. Quizá sí para ti. El enlace está abajo."</td><td>Fundador/a + producto</td><td>"No esperes como él"</td></tr>
+</table>
+<p><b>Edición:</b> íntimo, fotos reales, paleta cálida. <b>Página:</b> marca/fundador. <b>Compliance:</b> historia emocional sin prometer "evita ceguera"; usar "ayuda a frenar/apoya".</p>
+
+<!-- ============ CONCEPTO 8 ============ -->
+<h2>CONCEPTO 8 — "3 razones por las que tu vista empeora"</h2>
+<p><b>Frameworks:</b> Fascination (List) + Infotainment nativo (formato TikTok) + Mechanism.</p>
+<table class="meta">
+ <tr><td>Persona</td><td><b>"El scroller curioso 55+"</b> — consume contenido de salud/tips, responde a formatos nativos no-ad.</td></tr>
+ <tr><td>Funnel / Awareness</td><td>TOFU · Unaware→Problem</td></tr>
+ <tr><td>Tone</td><td>Nativo, educativo, ágil; "te explico rápido". Cero estética de ad.</td></tr>
+ <tr><td>Key Messages</td><td>1) Tu vista empeora por causas que no conoces. 2) Una es que la luteína no te llega. 3) Hay una forma de que sí llegue.</td></tr>
+ <tr><td>Angle / Pain a testear</td><td>Curiosidad educativa (curiosity gap por lista)</td></tr>
+ <tr><td>Concepto a testear</td><td>¿El formato listicle nativo (no-ad) baja CPM y sube hook rate vs el ad pulido?</td></tr>
+ <tr><td>Enemigo / Blame shift</td><td>La desinformación + la cápsula que no llega. "No es tu culpa, nadie te lo explicó."</td></tr>
+</table>
+<h3>3 Hooks</h3>
+<div class="hook">1. "3 razones por las que tu vista empeora (la 3 te va a sorprender)."</div>
+<div class="hook">2. "Oftalmólogos no te dicen esto sobre tu luteína."</div>
+<div class="hook">3. "Si tu vista empeora después de los 55, mira esto."</div>
+<h3>Script Flow (&lt;90s)</h3>
+<table>
+ <tr><th>Sección</th><th>Voz en off (guía)</th><th>Visual sugerido</th><th>Texto en pantalla</th></tr>
+ <tr><td>Hook (0–3s)</td><td>"3 razones por las que tu vista empeora después de los 55. La tercera casi nadie la conoce."</td><td>Creador nativo a cámara, energía</td><td>"3 razones 👇"</td></tr>
+ <tr><td>Razón 1</td><td>"Uno: las pantallas y la luz azul cansan y resecan tus ojos todos los días."</td><td>Persona ante pantalla, ojos cansados</td><td>"1. Luz azul"</td></tr>
+ <tr><td>Razón 2</td><td>"Dos: con la edad, tu mácula pierde luteína, el pigmento que protege tu visión central."</td><td>Visualización mácula</td><td>"2. Pierdes luteína"</td></tr>
+ <tr><td>Razón 3 (gancho)</td><td>"Tres — y esta es la clave: la luteína en cápsula se disuelve en el estómago. El 90% nunca llega al ojo."</td><td>CGI cápsula en ácido</td><td>"3. No te llega"</td></tr>
+ <tr><td>Root Solution + Mechanism</td><td>"La solución: un spray que entra por el párpado, directo al ojo, sin pasar por el estómago."</td><td>Aplicación + diagrama</td><td>"Directo al ojo"</td></tr>
+ <tr><td>Demo / Results</td><td>"En semanas: menos borroso, más brillo, mejor visión de noche."</td><td>Antes/después</td><td>"Semana 1 → 3"</td></tr>
+ <tr><td>Social Proof + CTA</td><td>"Por eso miles dejaron las cápsulas. Te dejo el enlace abajo."</td><td>Producto + collage</td><td>"Link abajo 👇"</td></tr>
+</table>
+<p><b>Edición:</b> nativo, fast cuts, números en pantalla, lenguaje trendy ("la 3 te sorprende"). <b>Página:</b> personal/theme. <b>Objetivo:</b> alto hook rate en frío.</p>
+
+<!-- ============ CONCEPTO 9 ============ -->
+<h2>CONCEPTO 9 — "Pensé que era una estafa"</h2>
+<p><b>Frameworks:</b> Breakthrough (manejo de objeción) + Reseña/Confesión (Perspective-Shift 1ª persona) + Loss Aversion.</p>
+<table class="meta">
+ <tr><td>Persona</td><td><b>"El escéptico que ya vio el producto"</b> — 55+ que vio anuncios de VisionPure y desconfía ("otro spray milagro").</td></tr>
+ <tr><td>Funnel / Awareness</td><td>BOFU · Product Aware (retargeting de quienes ya conocen la marca)</td></tr>
+ <tr><td>Tone</td><td>Honesto, reseña real, escéptico-a-creyente.</td></tr>
+ <tr><td>Key Messages</td><td>1) Yo también pensé que era estafa. 2) Lo probé por la garantía de 90 días. 3) Funcionó — y te explico por qué tiene sentido.</td></tr>
+ <tr><td>Angle / Pain a testear</td><td>Escepticismo / objeción "esto no funciona"</td></tr>
+ <tr><td>Concepto a testear</td><td>¿Atacar la objeción de frente convierte mejor en retargeting (Product Aware)?</td></tr>
+ <tr><td>Enemigo / Blame shift</td><td>Los "sprays milagro" que sí son humo. "Yo desconfiaba igual que tú — la diferencia es el mecanismo real."</td></tr>
+</table>
+<h3>3 Hooks</h3>
+<div class="hook">1. "Pensé que VisionPure era una estafa. Me equivoqué."</div>
+<div class="hook">2. "Lo compré solo por la garantía. Hoy veo como no veía desde hace años."</div>
+<div class="hook">3. "Reseña honesta: ¿el spray de luteína sí sirve o es humo?"</div>
+<h3>Script Flow (&lt;90s)</h3>
+<table>
+ <tr><th>Sección</th><th>Voz en off (guía)</th><th>Visual sugerido</th><th>Texto en pantalla</th></tr>
+ <tr><td>Hook (0–3s)</td><td>"Pensé que esto era otra estafa de internet. Lo compré solo por la garantía de 90 días."</td><td>Usuario real a cámara, tono honesto</td><td>"Reseña honesta"</td></tr>
+ <tr><td>Objeción (físico+emocional)</td><td>"Ya había gastado en cápsulas, en gotas, en todo. Nada me sirvió. No quería ilusionarme otra vez."</td><td>Frascos viejos en un cajón</td><td>"Ya lo había probado todo"</td></tr>
+ <tr><td>Por qué le dio una oportunidad</td><td>"Pero leí el porqué: las cápsulas se disuelven en el estómago. Este entra por el párpado. Tenía lógica."</td><td>Diagrama párpado vs estómago</td><td>"Esto sí tenía sentido"</td></tr>
+ <tr><td>Demo / Results</td><td>"Semana 2 ya leía sin acercar tanto el teléfono. Semana 4 manejé de noche sin tensión."</td><td>Lectura, manejar de noche</td><td>"Semana 2 → 4"</td></tr>
+ <tr><td>Manejo de objeción + Loss Aversion</td><td>"¿Que si es caro? Más caro fue todo lo que probé antes y no funcionó. Y tienes 90 días para devolverlo."</td><td>Producto + sello garantía</td><td>"Garantía 90 días"</td></tr>
+ <tr><td>Social Proof</td><td>"Resulta que no era el único: miles ya lo usan."</td><td>Collage / reseñas</td><td>"Usado por miles"</td></tr>
+ <tr><td>CTA</td><td>"Si dudas como yo, pruébalo con la garantía. El enlace está abajo."</td><td>Producto en mano</td><td>"Pruébalo sin riesgo"</td></tr>
+</table>
+<p><b>Edición:</b> reseña UGC cruda, cero glam. <b>Página:</b> personal. <b>Uso:</b> retargeting (Product Aware) tras conceptos de frío.</p>
+
+<!-- ============ CONCEPTO 10 ============ -->
+<h2>CONCEPTO 10 — "Le subieron el brillo al mundo"</h2>
+<p><b>Frameworks:</b> Emotional Valence positiva (broaden attention) + Preventivo (avatar más joven) + Fascination (Specific Result).</p>
+<table class="meta">
+ <tr><td>Persona</td><td><b>"La preventiva de pantallas"</b> — 45–58, mucho tiempo de pantalla, vista cansada/seca; quiere cuidar su visión antes de que empeore (bajo distress).</td></tr>
+ <tr><td>Funnel / Awareness</td><td>MOFU · Solution Aware</td></tr>
+ <tr><td>Tone</td><td>Aspiracional, sensorial, luminoso; "así se siente ver bien otra vez".</td></tr>
+ <tr><td>Key Messages</td><td>1) Tu vista cansada de pantalla tiene arreglo. 2) La luteína protege y reaviva el color/brillo. 3) Fácil: spray, sin pastillas.</td></tr>
+ <tr><td>Angle / Pain a testear</td><td>Beneficio sensorial positivo (colores/brillo) + fatiga por pantallas</td></tr>
+ <tr><td>Concepto a testear</td><td>¿Una entrada de valencia POSITIVA capta al comprador preventivo (45-58) que el ángulo de miedo no toca?</td></tr>
+ <tr><td>Enemigo / Blame shift</td><td>La fatiga digital / luz azul. "No tienes que llegar al miedo para cuidar tu vista."</td></tr>
+</table>
+<h3>3 Hooks</h3>
+<div class="hook">1. "Pasé de ver 'la vida a baja resolución' a que le subieran el brillo al mundo."</div>
+<div class="hook">2. "Tus ojos trabajan 8 horas frente a pantallas. Cuídalos hoy."</div>
+<div class="hook">3. "El spray de luteína que le devuelve el color a tu día."</div>
+<h3>Script Flow (&lt;90s)</h3>
+<table>
+ <tr><th>Sección</th><th>Voz en off (guía)</th><th>Visual sugerido</th><th>Texto en pantalla</th></tr>
+ <tr><td>Hook (0–3s)</td><td>"Un día normal frente a la pantalla… y de repente, es como si le subieran el brillo al mundo."</td><td>Transición visual de mundo apagado → vívido</td><td>"Sube el brillo a tu vista"</td></tr>
+ <tr><td>Root Problem (suave)</td><td>"Horas de celular y compu cansan y resecan tus ojos. Los colores se apagan sin que lo notes."</td><td>Persona ante pantalla, ojos cansados</td><td>"Vista cansada de pantalla"</td></tr>
+ <tr><td>Root Solution + Mechanism</td><td>"La luteína protege tu mácula. VisionPure la entrega por el párpado — directo, sin pastillas."</td><td>Aplicación + diagrama</td><td>"Directo al ojo, sin pastillas"</td></tr>
+ <tr><td>Beneficios (sensorial)</td><td>"Menos cansancio, menos resequedad, colores más vivos, y proteges tu visión a futuro."</td><td>Naturaleza/colores vívidos, lectura cómoda</td><td>"Color · descanso · protección"</td></tr>
+ <tr><td>USPs</td><td>"Protege contra la luz azul. Fácil de aplicar. Garantía 90 días."</td><td>Iconos USP</td><td>"Luz azul · 90 días"</td></tr>
+ <tr><td>Social Proof</td><td>"Miles ya cuidan su vista así, antes de que sea tarde."</td><td>Collage usuarios activos</td><td>"Usado por miles"</td></tr>
+ <tr><td>CTA</td><td>"Cuida tu visión hoy. Revisa el enlace."</td><td>Producto en mano, luz cálida</td><td>"Cuídala a tiempo"</td></tr>
+</table>
+<p><b>Edición:</b> luminoso, transiciones de color (apagado→vívido), música upbeat. <b>Página:</b> personal o marca. <b>Avatar nuevo:</b> preventivo 45-58 (amplía TAM hacia más jóvenes).</p>
+
+<!-- ============ QC + GUIDELINES ============ -->
+<h2>Quality Check — 14 preguntas (del curso) antes de producir</h2>
+<table>
+ <tr><th>#</th><th>Pregunta</th><th>Aplicación a estos briefs</th></tr>
+ <tr><td>1</td><td>¿Los primeros 1–2s enganchan al usuario correcto y lo mantienen?</td><td>Todos abren con confesión/cifra/tendencia + texto que resume sin sonido.</td></tr>
+ <tr><td>2</td><td>¿Es un video que el cliente querría ver?</td><td>Historia + transformación, no catálogo.</td></tr>
+ <tr><td>3</td><td>¿El copy crea una imagen clara en la mente?</td><td>"Leí la letra chica sin lentes", "manejé de noche".</td></tr>
+ <tr><td>4</td><td>¿Se siente nativo a la plataforma?</td><td>UGC raw, vertical, sin estética de ad (C1/C4).</td></tr>
+ <tr><td>5</td><td>¿Contiene etiqueta de para quién es?</td><td>Hooks segmentan: paciente de cirugía, hijo/a, usuario de cápsulas.</td></tr>
+ <tr><td>6</td><td>¿Haría sonreír/emocionar?</td><td>Pico emocional (C1 "lloré en el carro", C4 reconoce nietos).</td></tr>
+ <tr><td>7</td><td>¿Es relatable?</td><td>Síntomas cotidianos del avatar 55+.</td></tr>
+ <tr><td>8</td><td>¿Parece un ad?</td><td>Minimizado en C1/C2/C4 (confesión/autoridad/documental).</td></tr>
+ <tr><td>9</td><td>Gut check — ¿se siente auténtico?</td><td>Voz parafraseable, no robótica; creadores reales.</td></tr>
+ <tr><td>10</td><td>¿Qué learnings de ganadores aplicamos?</td><td>Mecanismo párpado vs cápsula (SO6) + confesión (SO3 30.1).</td></tr>
+ <tr><td>11</td><td>¿Educa de forma creativa hacia el core desire?</td><td>Mecanismo + Semana 1→3 → independencia.</td></tr>
+ <tr><td>12</td><td>¿Cuenta una historia interesante?</td><td>Arco completo en C1/C4.</td></tr>
+ <tr><td>13</td><td>¿Aplicaste escalada del claim de forma relatable?</td><td>"Cancelé la cirugía", "reconoció a sus nietos".</td></tr>
+ <tr><td>14</td><td>¿Separa la marca de la competencia?</td><td>Entrega por párpado vs cápsula digestiva (USP única).</td></tr>
+</table>
+
+<h2>Creator / Filming Guidelines (del curso)</h2>
+<ul>
+ <li>Filmar cámara trasera, horizontal, ≥1080×1920, 30 fps, 16:9, bien iluminado (luz natural/golden hour o ring light).</li>
+ <li>Elemento principal centrado; fondo limpio y ordenado.</li>
+ <li>Subir clips RAW individuales etiquetados por escena (hook 1, demo…). Sin efectos/música/texto en el raw.</li>
+ <li>Tono: que no suene a ad; parafrasear el script para sonar natural; hablar rápido pero claro; incluir todos los puntos clave.</li>
+ <li>Captions dinámicos simples + iconos de USP ("90 días", "Hecho en USA").</li>
+ <li>Transiciones simples (mix/left). Música upbeat, copyright-free, acorde a la marca.</li>
+</ul>
+
+<h2>Plan de testeo + Compliance</h2>
+<p><b>Round 1 — validar vértice (frío, MOFU):</b> C1 (confesión), C2 (autoridad), C3 (villano) — los más cercanos a vértices ya probados. Presupuesto parejo en CBO, juzgar por CTR + ROAS a 3–4 días.<br>
+<b>Round 2 — abrir TAM (frío, TOFU):</b> C4 (proxy/hijo), C5 (comunidad), C6 (síntomas Unaware), C8 (listicle nativo) — entradas más arriba del embudo para audiencias nuevas/más baratas.<br>
+<b>Round 3 — confianza y marca:</b> C7 (historia de fundador) y C10 (preventivo/positivo, avatar 45-58 nuevo).<br>
+<b>Retargeting (BOFU):</b> C9 (objeción "pensé que era estafa") sobre quienes ya vieron los anuncios de frío.<br>
+<b>Congruencia:</b> Solution Aware → LP/advertorial; Unaware → advertorial/listicle; Product Aware → PDP/reseñas.<br>
+<b>Naming:</b> VisionPure_Eye_C1-confesion_v1 … VisionPure_Eye_C10-preventivo_v1.</p>
+<p class="note"><b>Guardrails de salud:</b> claims permitidos "apoya / ayuda a proteger / nutre / contribuye a". Evitar "cura, revierte, elimina, reemplaza cirugía". Villano: atacar status quo/mecanismo (cápsula digestiva), no difamar marca nombrada sin sustento (regla FTC). Testimonios y % deben ser sustanciables o ilustrativos con disclaimer. <b>A favor:</b> el claim "ayuda a la conducción nocturna / mejora la agudeza visual" tiene respaldo de estudio (ver Banco de Voz de Cliente) — usar con redacción de "apoyo", no de cura.</p>
+
+<p style="margin-top:20px;font-size:9pt;color:#777;">Generado a partir de <i>analisis-videos/so6-ad37-visionpure--analisis.md</i> + frameworks en <i>documentos/</i>. Ganador de referencia: SO6 AD 37 (ROAS 3,07). Estructura basada en el Creative Strategy Course (Secciones 4, 5, 11, 15).</p>
+
+</body>
+</html>
